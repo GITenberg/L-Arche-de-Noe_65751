@@ -1,5 +1,8 @@
 _repo: L-Arche-de-Noe_65751
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65751-h/images/cover.jpg
 creator:
   author:
     agent_name: Hellé, André
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '35475'
     url: http://www.gutenberg.org/2009/agents/35475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65751#L-Arche-de-Noe
 gutenberg_issued: '2021-07-03'
 gutenberg_type: Text
 identifiers:
